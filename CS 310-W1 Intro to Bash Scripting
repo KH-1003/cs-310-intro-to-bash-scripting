@@ -1,0 +1,14 @@
+# CS 310 - W1 Intro to Bash Scripting
+
+By Kaylee Hinton
+
+## What does 'man' command allow you to do?
+Allows us to read documentation on a speciic coreutil command or library.
+
+## What does it mean tom make a bash script "executable"?
+To make the script runnabe in the terminal.
+A runnable script executes each command, line by line.
+
+## What aspect of the course are you most excited to learn about?
+I am most excited to learn more about what Linux can do and how to 
+successfully manage it.
